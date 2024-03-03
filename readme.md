@@ -30,6 +30,10 @@ Instructions on how to install any software, libraries, or datasets needed to ru
 ## Data Description
 Provide an overview of the dataset(s) used, including sources, features, and any preprocessing steps taken. You might also want to include information about downloading, extracting, and using the data.
 
+- link to [main dataset](https://data.usaid.gov/HIV-AIDS/Supply-Chain-Shipment-Pricing-Dataset/a3rc-nmf6/data_preview)
+
+- supporting [dataset](https://insights.theglobalfund.org/t/Public/views/PriceQualityReportingTransactionSummary/TransactionSummary?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no)
+
 ## Methodology
 Outline the technical or analytical approaches used in your project. This can include data exploration, preprocessing, modeling, and post-processing steps. Highlight any unique techniques or algorithms and the rationale behind them.
 
