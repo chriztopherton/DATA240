@@ -30,6 +30,15 @@ Instructions on how to install any software, libraries, or datasets needed to ru
 ## Data Description
 Provide an overview of the dataset(s) used, including sources, features, and any preprocessing steps taken. You might also want to include information about downloading, extracting, and using the data.
 
+The supply chain shipment pricing dataset for the project has been collected from the official government [website](https://data.usaid.gov/HIV-AIDS/Supply-Chain-Shipment-Pricing-Dataset/a3rc-nmf6/about_data)  which provides supply chain health commodity shipment and pricing dataset. 
+
+This dataset specifically shows the shipment of Antiretroviral (ARV) drugs and HIV lab equipment to countries that receive support from the USA AIDS department. 
+
+In addition, it provides thorough information about the quantity of items supplied within a shipment duration to different countries which require the HIV/AIDS medicines.
+
+The size of the dataset is 3.64MB which consists of around 10324 rows and 33 columns.
+
+
 - link to [main dataset](https://data.usaid.gov/HIV-AIDS/Supply-Chain-Shipment-Pricing-Dataset/a3rc-nmf6/data_preview)
 
 - supporting [dataset](https://insights.theglobalfund.org/t/Public/views/PriceQualityReportingTransactionSummary/TransactionSummary?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no)
